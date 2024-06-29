@@ -9,7 +9,7 @@ Forest
 Water
 Barren
 Dataset description
-The training datset consists of 803 satellite images in jpg format each paired with a mask in png format that includes the classification of each individual pixel in to one of the 6 classes above. More information about the dataset can be found in this paper: https://arxiv.org/abs/1805.06561
+The training datset consists of 803 satellite images in jpg format each paired with a mask in png format that includes the classification of each individual pixel in to one of the 6 classes above. More information about the dataset can be [found in this paper.](https://arxiv.org/abs/1805.06561)
 
 This study focuses on employing Convolutional Neural
 Networks (CNN) for image classification and segmentation tasks. Our primary objectives include developing
