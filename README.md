@@ -14,7 +14,9 @@ Barren
 Dataset description
 The training datset consists of 803 satellite images in jpg format each paired with a mask in png format that includes the classification of each individual pixel in to one of the 6 classes above. More information about the dataset can be [found in this paper.](https://arxiv.org/abs/1805.06561)
 
-## A full report of my findings can be [found here.](https://www.overleaf.com/project/65f8a88bf76a4e7312826ca8)
+![satellite](https://github.com/kasattack567/Practical-Machine-Learning-for-Physicists/assets/156461441/4e3e5a10-5e29-49ce-885f-e27e29d262cd)
+
+## Report of Findings can be [found here.](https://www.overleaf.com/read/zxpnxtmhqytp#23cb13)
 ### Abstract:
 This study focuses on employing Convolutional Neural
 Networks (CNN) for image classification and segmentation tasks. Our primary objectives include developing
