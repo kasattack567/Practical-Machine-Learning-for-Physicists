@@ -6,8 +6,8 @@ various applications such as agriculture, forestry management, and urban plannin
 use and land cover (LULC) classification using machine
 learning has become increasingly vital for sustainable resource management in developing cities.
 This study focuses on employing Convolutional Neural
-Networks (CNN) for image classification and segmentation tasks. Our primary objectives include developing
-machine learning algorithms for binary image classification to identify specific land types within satellite imagery. Additionally, the aim is to devise algorithms capable of estimating the fractional composition of each land
+Networks (CNN) for image classification and segmentation tasks. Our primary objectives include developing
+machine learning algorithms for binary image classification to identify specific land types within satellite imagery. Additionally, the aim is to devise algorithms capable of estimating the fractional composition of each land
 class present in the image, providing insights into land
 cover composition. Furthermore, there is an objective to
 implement algorithms for pixel-level image segmentation
