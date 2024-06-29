@@ -1,10 +1,16 @@
 Mini Project: Classifying Land Usage From Satellite Images
 
-Satellite imagery serves as a crucial tool in contemporary Earth observation, offering valuable insights into
-land cover and land use dynamics. Automated classification and segmentation of land cover are essential for
-various applications such as agriculture, forestry management, and urban planning. Additionally, accurate land
-use and land cover (LULC) classification using machine
-learning has become increasingly vital for sustainable resource management in developing cities.
+In this mini project, I attempt to classify regions of the earths surface based on satellite images. I will be classifying these regions into the following classes:
+
+Urban
+Agricultural
+Rangeland
+Forest
+Water
+Barren
+Dataset description
+The training datset consists of 803 satellite images in jpg format each paired with a mask in png format that includes the classification of each individual pixel in to one of the 6 classes above. More information about the dataset can be found in this paper: https://arxiv.org/abs/1805.06561
+
 This study focuses on employing Convolutional Neural
 Networks (CNN) for image classification and segmentation tasks. Our primary objectives include developing
 machine learning algorithms for binary image classification to identify specific land types within satellite imagery. Additionally, the aim is to devise algorithms capable of estimating the fractional composition of each land
